@@ -1,0 +1,36 @@
+[
+  {
+    "id": "233cc9fd-ffca-80e6-8b0e-c9d3f16ab9f0",
+    "created_time": "2025-07-17T00:05:00.000Z",
+    "last_edited_time": "2025-07-17T00:08:00.000Z",
+    "properties": {
+      "Created at": {
+        "start": "2025-07-13",
+        "end": null
+      },
+      "Updated at": {
+        "start": "2025-07-13",
+        "end": null
+      },
+      "Actualizar Archivo": "Tipo no soportado: button",
+      "Archivo": "[GUIA] Como reportar un pago"
+    }
+  },
+  {
+    "id": "232cc9fd-ffca-806e-817e-e0d0f84a3b7e",
+    "created_time": "2025-07-16T14:41:00.000Z",
+    "last_edited_time": "2025-07-16T21:38:00.000Z",
+    "properties": {
+      "Created at": {
+        "start": "2025-07-13",
+        "end": null
+      },
+      "Updated at": {
+        "start": "2025-07-16T13:51:00.000-06:00",
+        "end": null
+      },
+      "Actualizar Archivo": "Tipo no soportado: button",
+      "Archivo": "[FAQ] General Pagos"
+    }
+  }
+]
